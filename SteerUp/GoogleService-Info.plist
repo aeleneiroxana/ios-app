@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>940170926159-tb0hsbie9o5ct4ejdafdpf4i15g7mj1f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.940170926159-tb0hsbie9o5ct4ejdafdpf4i15g7mj1f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBiI5y_JZ_P6LreqJoQVJHUehF_Lv9Z63c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>940170926159</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>RA.SteerUp</string>
+	<key>PROJECT_ID</key>
+	<string>steerup-55da2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>steerup-55da2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:940170926159:ios:096404f79835364698b23a</string>
+	<key>DATABASE_URL</key>
+	<string>https://steerup-55da2.firebaseio.com</string>
+</dict>
+</plist>
