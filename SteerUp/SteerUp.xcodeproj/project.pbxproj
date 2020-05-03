@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		701680482455E6E500D62D05 /* ChooseCategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 701680472455E6E500D62D05 /* ChooseCategoryViewController.swift */; };
 		7035CCA22455CC9900FEFBA0 /* AddItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7035CCA12455CC9900FEFBA0 /* AddItemViewController.swift */; };
+		70383C83245F05AB00D62B54 /* EventsCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70383C82245F05AB00D62B54 /* EventsCollectionViewController.swift */; };
 		70E0DEBE2455632C007CD3ED /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70E0DEBD2455632C007CD3ED /* AppDelegate.swift */; };
 		70E0DEC02455632C007CD3ED /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70E0DEBF2455632C007CD3ED /* SceneDelegate.swift */; };
 		70E0DEC72455632C007CD3ED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 70E0DEC52455632C007CD3ED /* Main.storyboard */; };
@@ -24,6 +25,7 @@
 		1291AFE8715127E0F2E2DC20 /* Pods_SteerUp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SteerUp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		701680472455E6E500D62D05 /* ChooseCategoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChooseCategoryViewController.swift; sourceTree = "<group>"; };
 		7035CCA12455CC9900FEFBA0 /* AddItemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemViewController.swift; sourceTree = "<group>"; };
+		70383C82245F05AB00D62B54 /* EventsCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventsCollectionViewController.swift; sourceTree = "<group>"; };
 		70E0DEBA2455632C007CD3ED /* SteerUp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SteerUp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		70E0DEBD2455632C007CD3ED /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		70E0DEBF2455632C007CD3ED /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -87,15 +89,16 @@
 			isa = PBXGroup;
 			children = (
 				70E0DED6245568AE007CD3ED /* GoogleService-Info.plist */,
+				70E0DED02455632E007CD3ED /* Info.plist */,
+				7035CCA12455CC9900FEFBA0 /* AddItemViewController.swift */,
 				70E0DEBD2455632C007CD3ED /* AppDelegate.swift */,
+				701680472455E6E500D62D05 /* ChooseCategoryViewController.swift */,
+				70383C82245F05AB00D62B54 /* EventsCollectionViewController.swift */,
 				70E0DEBF2455632C007CD3ED /* SceneDelegate.swift */,
-				70E0DEC52455632C007CD3ED /* Main.storyboard */,
 				70E0DECB2455632D007CD3ED /* Assets.xcassets */,
 				70E0DECD2455632D007CD3ED /* LaunchScreen.storyboard */,
-				70E0DED02455632E007CD3ED /* Info.plist */,
+				70E0DEC52455632C007CD3ED /* Main.storyboard */,
 				70E0DEC82455632C007CD3ED /* SteerUp.xcdatamodeld */,
-				7035CCA12455CC9900FEFBA0 /* AddItemViewController.swift */,
-				701680472455E6E500D62D05 /* ChooseCategoryViewController.swift */,
 			);
 			path = SteerUp;
 			sourceTree = "<group>";
@@ -235,6 +238,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				70E0DECA2455632C007CD3ED /* SteerUp.xcdatamodeld in Sources */,
+				70383C83245F05AB00D62B54 /* EventsCollectionViewController.swift in Sources */,
 				7035CCA22455CC9900FEFBA0 /* AddItemViewController.swift in Sources */,
 				701680482455E6E500D62D05 /* ChooseCategoryViewController.swift in Sources */,
 				70E0DEBE2455632C007CD3ED /* AppDelegate.swift in Sources */,

@@ -94,6 +94,7 @@ class AddItemViewController: UIViewController {
         self.eventDatePicker.setDate(Date(), animated: false)
         self.isRenewableSwitch.isOn = false
         self.expireDatePicker.setDate(Date(), animated: false)
+        self.expireDatePicker.isHidden = true;
     }
     
 }
